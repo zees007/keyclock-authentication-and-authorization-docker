@@ -2,7 +2,7 @@
 
 In this project, I have covered Identity Providers (IDPs) such as Keycloak, explained OAuth 2.0 and OpenID Connect, and demonstrate how to integrate these technologies with a Spring Boot application. We explored the processes of authentication and authorization, learnt how to generate access tokens, and understand how to pass these tokens to access protected resources.
 
-[![Keyclock Workflow](/keyclock-oauth2/keyclock-workflow.png)
+![Client](https://github.com/user-attachments/assets/42eab319-9111-4519-9b6e-a1874f572d42)
 
 Follow below arcticle for step by step implementation
 
